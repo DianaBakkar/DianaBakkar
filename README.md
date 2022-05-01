@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DianaBakkar
-- 🌱 I’m currently learning Masters in Computer and Software Engineering
+- 🌱 I’m currently enrolled in a  Master's in Computer and Software Engineering
 - 📫 How to reach me : didkabakkar@gmail.com
 
 <!---
