@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DianaBakkar
-- 👀 I’m interested in making machines work :)
 - 🌱 I’m currently learning Masters in Computer and Software Engineering
 - 📫 How to reach me : didkabakkar@gmail.com
 
